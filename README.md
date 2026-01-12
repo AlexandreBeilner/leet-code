@@ -1,1 +1,1 @@
-(Meu Perfil)[https://leetcode.com/u/XandaoTheBig/]
+[Meu Perfil](https://leetcode.com/u/XandaoTheBig/)
